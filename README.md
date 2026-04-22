@@ -1,2 +1,2 @@
 # CODEX-plugin-ultra-think
-codex think very very more (need many usage/token)
+The Codex thinks much more. (*It consumes a lot of time and tokens/usage.
